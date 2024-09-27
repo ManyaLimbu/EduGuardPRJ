@@ -16,7 +16,7 @@ During COVID 19 pandemic, online education has become a common norm in schools a
   * Write the following command and press enter.
   
   ```
-    $ git clone https://github.com/ShubhangiBatra/EduGaurdPRJ.git
+    $ git clone https://github.com/ManyaLimbu/EduGuardPRJ.git
   ```
     
  #### 2. Install node packages
@@ -24,7 +24,7 @@ During COVID 19 pandemic, online education has become a common norm in schools a
   * Write the following command and press enter to download all required node modules.
  
    ```
-   $ cd EduGaurd
+   $ cd EduGuard
    $ npm install 
   ```
   
